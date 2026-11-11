@@ -1,0 +1,7 @@
+BUNNS FLOWERS - SITIO WEB
+
+ARCHIVOS
+- index.html: estructura y contenido de la página.
+- styles.css: diseño, colores y adaptación a celulares.
+- script.js: menú móvil y año automático del pie de página.
+- assets/: ilustraciones SVG locales (logo y flores).
